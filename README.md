@@ -1,0 +1,1 @@
+This site was not built to be mobile friendly. It was just for practice with API fetching. I have since added a few things to make it look ok on smaller screens, but I suggest viewing on a desktop screen.
